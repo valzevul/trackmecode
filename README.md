@@ -1,4 +1,4 @@
-### TrackMeCode
+### TrackMeCode
 > What you can measure, you can manage
 
 Simple utility heavily inspired by [Paul Taykalo's xcode-time-tracker](https://github.com/PaulTaykalo/xcode-time-tracker).
